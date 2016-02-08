@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MathFunctions/mysqrt.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+/Users/Theo/TedTests/self-cmake/ex1/MathFunctions/mysqrt.cxx
+mysqrt.h
+-
+

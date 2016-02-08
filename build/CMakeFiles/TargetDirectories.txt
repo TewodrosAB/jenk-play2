@@ -1,0 +1,2 @@
+/Users/Theo/TedTests/self-cmake/ex1/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/Theo/TedTests/self-cmake/ex1/build/CMakeFiles/Tutorial.dir
